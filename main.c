@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("GUROCK");
+	printf("GUROCK by Chun Rapeepat");
 	return 0;
 }
